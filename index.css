@@ -1,0 +1,142 @@
+.navbar-brand img
+{
+  width: 125px;
+  height: 50px;
+}
+
+.navbar
+{
+   background-color: #1c4c7c;
+}
+
+.nav-item
+{
+    padding-right: 30px;
+    padding-left: 30px;
+}
+
+.jumbotron {
+    background-image: url("./images/skyline-buildings-new-york-skyscrapers\ 2.jpg");
+    background-size: cover;
+    background-position: center 60%;
+    width: 1000px;
+    height: 500px;
+    margin: 0px;
+
+   
+ 
+}
+
+
+.lead
+{
+  
+  font-size: 30px;
+  color: #1c4c7c;
+  padding-top: 50px;
+  padding-left: 200px;
+
+}
+
+.Nemo
+{
+  
+  font-size: 20px;
+  color: #1c4c7c;
+  padding-left: 200px;
+
+}
+
+.aaa
+{
+  width: 1000px;
+  height: 200px;
+  background-color: #d3d3d3;
+}
+
+.img-fluid
+{
+  width: 500px;
+  height: 300px;
+  padding-top: 50px;
+}
+
+.sss
+{
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 50px;
+
+}
+
+
+.iphone img
+{
+  width: 400px;
+  height: 300px;
+  padding-left: 100px; 
+  padding-top: 50px;
+}
+
+.sen
+{
+    padding-top: 100px;
+    padding-left: 50px;
+}
+
+.tablet
+{
+    padding-top: 50px;
+}
+
+.vvv
+{
+    padding-left: 30px;
+}
+
+.develop
+{
+    padding-top: 10px;
+   
+
+}
+
+.moji
+{
+    background-color: #d3d3d3;
+    width: 200px;
+    height: 50px;
+}
+
+.fff
+{
+    width: 1000px;
+    height: 300px;
+    /* padding-top: 40px; */
+    background-color: #1c4c7c;
+    border-radius: 20px ;
+    position: relative; 
+    top: 60px;
+    padding-top: 40px;
+    
+}
+
+.form-group
+{
+    margin: 0px;
+   
+}
+
+.xxx
+{
+    padding-left: 40px;
+    padding-top: 10px;
+}
+
+
+.sub
+{
+    padding-left: 75px;
+    padding-top: 10px;
+   
+}
